@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "magma-nashorn-problem-reproduce",
+    "name": "Magma Nashorn Problem Reproduce",
+    "description": "",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
